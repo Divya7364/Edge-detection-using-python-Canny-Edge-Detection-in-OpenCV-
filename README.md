@@ -1,4 +1,4 @@
-# Edge-detection-using-python-Canny-Edge-Detection-in-OpenCV-
+
 # EDGE DETECTION: Edge detection is an image processing technique for finding the boundaries of objects within images.
 
 Based on image brightness and gray factors it detects the edges in the input image
